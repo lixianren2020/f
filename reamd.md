@@ -7,7 +7,7 @@
 本页固定网址： https://git.io/szzd
 本站点提供的翻墙工具，仅供世人突破网络封锁，了解真相使用，严禁用于其它用途。否则，请到大纪元网站下载自由门或无界翻墙工具，详细请到天地行论坛查看。
 
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="本页固定网址二维码"><img src="http://www.szzd.org/v.php?code=a0631dd136b92c22286ca3aa424226e649572400f46a1abcb81c933f924e9def144c2195bbb9d4a55ec80bcbcf057c61d0" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="本页固定网址二维码"><img src="http://git.io/szzd" style="max-width:100%;"></a></td>
 
 https://git.io/szzd 需要用国外的浏览器如火狐、Google Chrome打开，国内的浏览器打如果不开，是因为中共对国产软件暗中偷偷控制和封锁导致。二维码扫描方法是：
 ■打开国外的浏览器如火狐、Google Chrome  <br>
@@ -130,8 +130,10 @@ https://raw.githubusercontent.com/SzzdOgate/update/master/extras/szzdogate_v5.0.
 #### 4、三退保平安
 
 提供基本的三退翻墙程序和链接。大纪元退党网二维码:
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="大纪元退党网二维码"><img src="http://www.szzd.org/v.php?code=5a079484f95d7b968d2c588f86b7a7fd922bd364c9107fe5bf1fc8042588baed30d5d7b7bf20c1d256ea780380a8af" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="大纪元退党网二维码"><img src="http://x.co/ttdd" style="max-width:100%;"></a></td>
 
+大纪元退党网址:
+https://x.co/ttdd
 
 ## 四、“神州明见”SHA512校验及更新说明
 
