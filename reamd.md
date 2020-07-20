@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk
 SzzdOgate TV V2.0.2019102301 for 安卓4.1+（电视机顶盒版）：  
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgateTV.apk  
 
-SzzdOgate5.0 （html网页版，下载方法见下方介绍）
+SzzdOgate5.0 （html网页版，下载方法见下方介绍）:
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/szzdogate_v5.0.html
   
 
