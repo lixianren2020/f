@@ -118,7 +118,9 @@ http://www.szzd.org/CLZDc
 
 ■进入此网址
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/szzdogate_v5.0.html
+
 ■把此网页保存为html网页文件。（或者复制该网页中的所有代码，在手机或电脑中新建一个文本文件，把代码复制到里面，然后保存为html网页文件）
+
 ■使用时，打开该html网页文件就可以直接突破网络封锁
 
 #### 3、神州明见后台提供的视频和音频
