@@ -2,6 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="logo"><img src="https://github.com/SzzdOgate/update/raw/master/extras/Icon-256.png" style="max-width:100%;"></a></td>
+
 # 神州明见官网及固定二维码
 本页固定网址： https://git.io/szzd
 本站点提供的翻墙工具，仅供世人突破网络封锁，了解真相使用，严禁用于其它用途。否则，请到大纪元网站下载自由门或无界翻墙工具，详细请到天地行论坛查看。
