@@ -9,9 +9,14 @@
 
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="本页固定网址二维码"><img src="http://www.szzd.org/v.php?code=a0631dd136b92c22286ca3aa424226e649572400f46a1abcb81c933f924e9def144c2195bbb9d4a55ec80bcbcf057c61d0" style="max-width:100%;"></a></td>
 
-https://git.io/szzd 需要用国外的浏览器如火狐、Google Chrome打开，国内的浏览器打如果不开，是因为中共对国产软件暗中偷偷控制和封锁导致。二维码扫描方法是：
+https://git.io/szzd 需要用国外的浏览器如火狐、Google Chrome打开，国内的浏览器打如果不开，是因为中共对国产软件暗中偷偷控制和封锁导致。
+
+二维码扫描方法是：
+
 ■打开国外的浏览器如火狐、Google Chrome  <br>
+
 ■在地址栏输入利用 Webcam 在线扫描二维码的网页，如：http://qrcodescan.in/  <br>
+
 ■授予后摄像头权限，扫描二维码  <br>
 
 
