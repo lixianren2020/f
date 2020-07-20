@@ -15,7 +15,7 @@ https://git.io/szzd 需要用国外的浏览器如火狐、Google Chrome打开�
 ■授予后摄像头权限，扫描二维码  <br>
 
 
-# 神州明见（SzzdOgate）
+# 神州明见（SzzdOgate）突破网络封锁工具
 
 ## 一、程序功能简介
 
